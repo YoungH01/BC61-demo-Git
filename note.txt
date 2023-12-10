@@ -1,2 +1,6 @@
 create project on local repository
 2 use command then put file or change on staging area
+--> git add + file
+--> git add . (put all file)
+
+3. test status of all files.--> git status
