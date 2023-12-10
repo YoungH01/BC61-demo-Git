@@ -1,0 +1,2 @@
+create project on local repository
+2 use command then put file or change on staging area
